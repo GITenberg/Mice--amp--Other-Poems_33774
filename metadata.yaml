@@ -1,0 +1,40 @@
+_repo: Mice--amp--Other-Poems_33774
+_version: 0.1.0
+alternative_title: Mice and Other Poems
+contributor:
+  author_of_introduction:
+    agent_name: Quiller-Couch, Arthur
+    aliases:
+    - Q
+    - Quiller-Couch, Sir Arthur Thomas
+    - Quiller-Couch, Arthur Thomas
+    - Quiller-Couch, A. T. (Arthur Thomas)
+    birthdate: 1863
+    deathdate: 1944
+    gutenberg_agent_id: '3579'
+    url: http://www.gutenberg.org/2009/agents/3579
+    wikipedia: http://en.wikipedia.org/wiki/Arthur_Quiller-Couch
+covers:
+- cover_type: archival
+  image_path: 33774-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Bullett, Gerald
+    birthdate: 1893
+    deathdate: 1958
+    gutenberg_agent_id: '36597'
+    url: http://www.gutenberg.org/2009/agents/36597
+description: ''
+gutenberg_issued: '2010-09-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33774'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'English poetry -- 20th century'
+title: Mice & Other Poems
+url: http://www.gutenberg.org/ebooks/33774
